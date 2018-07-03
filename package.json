@@ -1,0 +1,11 @@
+{
+  "name": "countrow",
+  "version": "0.0.7",
+  "description": "count project code rows",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "lusase",
+  "license": "MIT"
+}
