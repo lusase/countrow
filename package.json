@@ -1,6 +1,6 @@
 {
   "name": "countrow",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "count project code rows",
   "main": "index.js",
   "scripts": {

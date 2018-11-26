@@ -7,10 +7,13 @@
 > npm install countrow --save-dev
 
 2. 使用
-
+> `在项目跟路径创建一个js文件, 如main.js`
+> `复制如下内容:`
+>
 > `const countrow = require('countrow')`
 >
-> `countrow('./', false /*默认不统计node_modules 如需统计将此参数传true*/).then((result) => {`
+> `// 默认不统计node_modules 如需统计请将第二个参数设为true`
+> `countrow('./', false).then((result) => {`
 >
 > `console.log(result.rows, result.fileCount)`
 >
