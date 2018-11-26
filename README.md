@@ -8,6 +8,7 @@
 
 2. 使用
 > `// 在项目跟路径创建一个js文件, 如main.js`
+>
 > `// 复制如下内容:`
 >
 > `const countrow = require('countrow')`
