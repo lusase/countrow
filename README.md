@@ -13,6 +13,7 @@
 > `const countrow = require('countrow')`
 >
 > `// 默认不统计node_modules 如需统计请将第二个参数设为true`
+>
 > `countrow('./', false).then((result) => {`
 >
 > `    console.log(result.rows, result.fileCount) // rows表示代码总行数, fileCount表示文件数`
